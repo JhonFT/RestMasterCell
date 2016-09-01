@@ -1,0 +1,10 @@
+{
+		"name":"RestCelLMaster",
+		"version":"0.0.1",
+		"description":"Proyecto Inteligencia Artificial John",
+		"main": "app.js",
+		"dependencies":{
+			"express":"latest",
+			"mysql":"latest"
+		}
+}
